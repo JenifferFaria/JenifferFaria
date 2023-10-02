@@ -3,6 +3,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A66363&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+Eu+me+chamo+Jeniffer+Faria;Tenho+20+anos;Estou+atualmente+no+4°Semestre;Cursando+Análise+e+Desenvolvimento+de+Sistemas;Na+FATEC+Sorocaba.)](https://github.com/JenifferFaria)
 <hr>
 
+<h2>Jeniffer Faria GitHub Stats</h2>
+<br>
+<div style="display: inline_block" align="center">
+ <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JenifferFaria&show_icons=true&theme=dracula"/> 
+ <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenifferFaria&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 <div style="display: inline_block" align = "center"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
