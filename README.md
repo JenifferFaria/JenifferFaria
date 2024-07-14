@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F27979&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A66363&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+Eu+me+chamo+Jeniffer+Faria;Tenho+21+anos;Estou+atualmente+no+5°Semestre;Cursando+Análise+e+Desenvolvimento+de+Sistemas;Na+FATEC+Sorocaba.)](https://github.com/JenifferFaria)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A66363&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+Eu+me+chamo+Jeniffer+Faria;Tenho+21+anos;Estou+atualmente+no+6°Semestre;Cursando+Análise+e+Desenvolvimento+de+Sistemas;Na+FATEC+Sorocaba.)](https://github.com/JenifferFaria)
 <hr>
 
 <br>
