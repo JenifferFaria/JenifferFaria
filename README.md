@@ -16,6 +16,7 @@
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
   <img align="center" alt="Oracle SQL" height="30" width="40" src="https://user-images.githubusercontent.com/87160095/199339101-f632e940-ba2a-482b-8ddb-0de21785d7b1.svg"/> 
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </div>
 
 <div align = "center"> <br>
